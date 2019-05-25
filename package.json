@@ -1,0 +1,16 @@
+{
+  "name": "underscore-tricks",
+  "version": "1.0.0",
+  "description": "Helpful underscore.js tricks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Aniruddha Mahamuni",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.19.0",
+    "underscore": "^1.9.1"
+  }
+}
